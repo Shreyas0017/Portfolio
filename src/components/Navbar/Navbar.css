@@ -14,13 +14,13 @@
     align-items: center;
     list-style: none;
     gap: 80px;
-    font-size: 15px;
+    font-size: 25px;
 }
 .nav-connect{
     padding: 10px 20px;
     border-radius: 50px;
     background: linear-gradient(267deg, rgb(31, 26, 26), red);
-    font-size: 15px;
+    font-size: 25px;
     cursor: pointer;
     transition: 0.5s;
 }
