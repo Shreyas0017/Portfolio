@@ -13,13 +13,17 @@
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 60px;
-    font-size: 20px;
+    gap: 80px;
+    font-size: 15px;
 }
 .nav-connect{
-    padding: 20px 40px;
+    padding: 10px 20px;
     border-radius: 50px;
-    background: linear-gradient(267deg, #ff7854, #fd267d);
-    font-size: 22px;
+    background: linear-gradient(267deg, rgb(31, 26, 26), red);
+    font-size: 15px;
     cursor: pointer;
+    transition: 0.5s;
+}
+.nav-connect:hover{
+    transform: scale(1.05);
 }
